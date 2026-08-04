@@ -1,0 +1,18 @@
+# Exclude the design document from GitHub upload
+技艺通_项目设计文档.pdf
+
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
